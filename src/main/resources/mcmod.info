@@ -5,7 +5,7 @@
   "description": "A bazaar to browse and install Minecraft mods.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/jaxzin/modzaar",
   "updateUrl": "",
   "authorList": ["jaxzin"],
   "credits": "Brian R. Jackson",
