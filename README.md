@@ -18,6 +18,13 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+### Developing
+1. Run `./gradlew reobf`
+2. Copy `build/libs/modzaar-1.0-SNAPSHOT.jar` to your `$MINECRAFT_DATA/mods/`
+3. Start Minecraft
+
+TODO: I bet there is an easier way to develop/test Minecraft mods.
+
 ## History
 
 ### Unreleased
