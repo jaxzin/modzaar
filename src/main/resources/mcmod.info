@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "modzaar",
+  "name": "Modzaar",
+  "description": "A bazaar to browse and install Minecraft mods.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["jaxzin"],
+  "credits": "Brian R. Jackson",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
